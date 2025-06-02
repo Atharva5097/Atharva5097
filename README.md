@@ -1,4 +1,4 @@
-# 💫 About MeAdd commentMore actions
+# 💫 About Me
 Hi, I'm Atharva Vijay Taware – a results-driven Supply Chain Analyst with hands-on experience in Optimization of Supply Chain Operations, Program Management, and data-driven decision-making
 
 🎯 Passionate about combining domain knowledge with analytics to drive efficiency, accuracy, and innovation in supply chains.
